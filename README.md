@@ -61,3 +61,26 @@ Used the `auto.arima()` function for automatic model selection. Forecasted emiss
 
 ```r
 forecast(model, h = 10)
+
+Project Structure
+
+CO2_Time_Series_Analysis/
+├── co2_analysis.R         # Main R script
+├── global_co2_plot.png    # Global CO₂ emission trends
+├── sri_lanka_forecast.png # Forecast results for Sri Lanka
+├── README.md              # This file
+
+Conclusion
+- Global CO₂ emissions show a clear upward trend.
+
+- Sri Lanka has a relatively smaller share, but from that we can conclude there is some decreasing pattern in CO2 emission
+
+- ARIMA models effectively capture and forecast emission patterns.
+
+- These insights can be valuable for environmental policy, climate planning, and sustainability research.
+
+Author
+Chanithi Rasnakawewa
+Undergraduate, BSc Hons in Information Technology & Management
+University of Colombo, Faculty of Science
+
