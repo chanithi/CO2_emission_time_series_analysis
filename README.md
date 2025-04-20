@@ -64,7 +64,7 @@ forecast(model, h = 10)
 
 ---
 
-
+## Project Structure
 CO2_Time_Series_Analysis/
 ├── co2_analysis.R         # Main R script
 ├── global_co2_plot.png    # Global CO₂ emission trends
@@ -84,5 +84,10 @@ CO2_Time_Series_Analysis/
 -ARIMA models effectively capture and forecast emission patterns.
 
 -These insights can be valuable for environmental policy, climate planning, and sustainability research.
+
+Author
+Chanithi Rasnakawewa
+Undergraduate, BSc Hons in Information Technology & Management
+University of Colombo, Faculty of Science
 
 
